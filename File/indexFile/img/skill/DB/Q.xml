@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="Q.png" px="-90" py="-168">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 70000" x="0" y="0" width="83" height="92" frameX="-48" frameY="-57" frameWidth="187" frameHeight="182"/>
+	<SubTexture name="元件 70001" x="83" y="0" width="159" height="152" frameX="-11" frameY="-27" frameWidth="187" frameHeight="182"/>
+	<SubTexture name="元件 70002" x="242" y="0" width="169" height="154" frameX="-6" frameY="-27" frameWidth="187" frameHeight="182"/>
+	<SubTexture name="元件 70003" x="411" y="0" width="169" height="174" frameX="-12" frameY="-6" frameWidth="187" frameHeight="182"/>
+	<SubTexture name="元件 70004" x="580" y="0" width="181" height="170" frameX="-6" frameY="-9" frameWidth="187" frameHeight="182"/>
+	<SubTexture name="元件 70005" x="761" y="0" width="159" height="166" frameX="-10" frameY="-14" frameWidth="187" frameHeight="182"/>
+	<SubTexture name="元件 70006" x="920" y="0" width="169" height="163" frameX="-6" frameY="-16" frameWidth="187" frameHeight="182"/>
+	<SubTexture name="元件 70007" x="0" y="174" width="169" height="165" frameX="-11" frameY="-16" frameWidth="187" frameHeight="182"/>
+	<SubTexture name="元件 70008" x="169" y="174" width="178" height="173" frameX="-6" frameY="-7" frameWidth="187" frameHeight="182"/>
+	<SubTexture name="元件 70009" x="347" y="174" width="163" height="170" frameX="-7" frameY="-11" frameWidth="187" frameHeight="182"/>
+	<SubTexture name="元件 70010" x="510" y="174" width="175" height="169" frameX="0" frameY="-11" frameWidth="187" frameHeight="182"/>
+	<SubTexture name="元件 70011" x="685" y="174" width="165" height="178" frameX="-11" frameY="0" frameWidth="187" frameHeight="182"/>
+	<SubTexture name="元件 70012" x="850" y="174" width="169" height="166" frameX="-6" frameY="-13" frameWidth="187" frameHeight="182"/>
+	<SubTexture name="元件 70013" x="1019" y="174" width="169" height="174" frameX="-11" frameY="-6" frameWidth="187" frameHeight="182"/>
+	<SubTexture name="元件 70014" x="0" y="352" width="173" height="169" frameX="-14" frameY="-12" frameWidth="187" frameHeight="182"/>
+	<SubTexture name="元件 70015" x="173" y="352" width="152" height="168" frameX="-14" frameY="-14" frameWidth="187" frameHeight="182"/>
+	<SubTexture name="元件 70016" x="325" y="352" width="165" height="159" frameX="-11" frameY="-22" frameWidth="187" frameHeight="182"/>
+	<SubTexture name="元件 70017" x="490" y="352" width="156" height="158" frameX="-25" frameY="-23" frameWidth="187" frameHeight="182"/>
+</TextureAtlas>

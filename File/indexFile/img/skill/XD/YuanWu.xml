@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="YuanWu.png" px="-131" py="-210">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 170000" x="0" y="0" width="265" height="243"/>
+	<SubTexture name="元件 170001" x="265" y="0" width="265" height="243"/>
+	<SubTexture name="元件 170002" x="530" y="0" width="265" height="243"/>
+	<SubTexture name="元件 170003" x="0" y="243" width="265" height="243"/>
+	<SubTexture name="元件 170004" x="265" y="243" width="265" height="243"/>
+	<SubTexture name="元件 170005" x="530" y="243" width="265" height="243"/>
+	<SubTexture name="元件 170006" x="0" y="486" width="265" height="243"/>
+	<SubTexture name="元件 170007" x="265" y="486" width="265" height="243"/>
+	<SubTexture name="元件 170008" x="530" y="486" width="265" height="243"/>
+	<SubTexture name="元件 170009" x="530" y="486" width="265" height="243"/>
+</TextureAtlas>

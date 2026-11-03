@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="SiQi.png" px="-153" py="-184">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 90000" x="0" y="0" width="330" height="200"/>
+	<SubTexture name="元件 90001" x="330" y="0" width="330" height="200"/>
+	<SubTexture name="元件 90002" x="660" y="0" width="330" height="200"/>
+	<SubTexture name="元件 90003" x="0" y="200" width="330" height="200"/>
+	<SubTexture name="元件 90004" x="330" y="200" width="330" height="200"/>
+	<SubTexture name="元件 90005" x="660" y="200" width="330" height="200"/>
+	<SubTexture name="元件 90006" x="0" y="400" width="330" height="200"/>
+	<SubTexture name="元件 90007" x="330" y="400" width="330" height="200"/>
+	<SubTexture name="元件 90008" x="660" y="400" width="330" height="200"/>
+	<SubTexture name="元件 90009" x="0" y="600" width="330" height="200"/>
+	<SubTexture name="元件 90010" x="330" y="600" width="330" height="200"/>
+	<SubTexture name="元件 90011" x="330" y="600" width="330" height="200"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="num.png">
+	<!-- Created with Adobe Flash Professional version 13.1.0.226 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="num0" x="80" y="84" width="35" height="42" pivotX="0" pivotY="-10" frameX="0" frameY="0" frameWidth="40" frameHeight="42"/>
+	<SubTexture name="num1" x="0" y="126" width="27" height="42" frameX="-13" frameY="0" frameWidth="40" frameHeight="42"/>
+	<SubTexture name="num2" x="0" y="0" width="40" height="42"/>
+	<SubTexture name="num3" x="40" y="0" width="40" height="42"/>
+	<SubTexture name="num4" x="80" y="0" width="40" height="42"/>
+	<SubTexture name="num5" x="0" y="42" width="40" height="42"/>
+	<SubTexture name="num6" x="40" y="42" width="40" height="42"/>
+	<SubTexture name="num7" x="80" y="42" width="40" height="42"/>
+	<SubTexture name="num8" x="0" y="84" width="40" height="42"/>
+	<SubTexture name="num9" x="40" y="84" width="40" height="42"/>
+</TextureAtlas>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="Xuan.png" px="-125" py="-130">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 190000" x="0" y="0" width="250" height="200"/>
+	<SubTexture name="元件 190001" x="250" y="0" width="250" height="200"/>
+	<SubTexture name="元件 190002" x="500" y="0" width="250" height="200"/>
+	<SubTexture name="元件 190003" x="750" y="0" width="250" height="200"/>
+	<SubTexture name="元件 190004" x="0" y="200" width="250" height="200"/>
+	<SubTexture name="元件 190005" x="250" y="200" width="250" height="200"/>
+	<SubTexture name="元件 190006" x="500" y="200" width="250" height="200"/>
+	<SubTexture name="元件 190007" x="750" y="200" width="250" height="200"/>
+	<SubTexture name="元件 190008" x="0" y="400" width="250" height="200"/>
+	<SubTexture name="元件 190009" x="250" y="400" width="250" height="200"/>
+	<SubTexture name="元件 190010" x="500" y="400" width="250" height="200"/>
+	<SubTexture name="元件 190011" x="750" y="400" width="250" height="200"/>
+	<SubTexture name="元件 190012" x="0" y="600" width="250" height="200"/>
+	<SubTexture name="元件 190013" x="250" y="600" width="250" height="200"/>
+	<SubTexture name="元件 190014" x="500" y="600" width="250" height="200"/>
+	<SubTexture name="元件 190015" x="750" y="600" width="250" height="200"/>
+	<SubTexture name="元件 190016" x="0" y="800" width="250" height="200"/>
+	<SubTexture name="元件 190017" x="0" y="800" width="250" height="200"/>
+</TextureAtlas>

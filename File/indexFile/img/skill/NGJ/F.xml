@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="F.png" px="-13" py="-231">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture fuck="1" name="元件 40000" x="0" y="0" width="136" height="150" frameX="-1" frameY="-94" frameWidth="307" frameHeight="273"/>
+	<SubTexture name="元件 40001" x="136" y="0" width="150" height="149" frameX="-6" frameY="-93" frameWidth="307" frameHeight="273"/>
+	<SubTexture fuck="1" name="元件 40002" x="286" y="0" width="137" height="155" frameX="0" frameY="-91" frameWidth="307" frameHeight="273"/>
+	<SubTexture name="元件 40003" x="0" y="155" width="179" height="146" frameX="-22" frameY="-91" frameWidth="307" frameHeight="273"/>
+	<SubTexture fuck="1" name="元件 40004" x="179" y="155" width="174" height="195" frameX="-61" frameY="-49" frameWidth="307" frameHeight="273"/>
+	<SubTexture name="元件 40005" x="0" y="350" width="179" height="189" frameX="-87" frameY="-49" frameWidth="307" frameHeight="273"/>
+	<SubTexture fuck="1" name="元件 40006" x="179" y="350" width="182" height="200" frameX="-91" frameY="-41" frameWidth="307" frameHeight="273"/>
+	<SubTexture name="元件 40007" x="0" y="550" width="212" height="258" frameX="-80" frameY="0" frameWidth="307" frameHeight="273"/>
+	<SubTexture fuck="1" name="元件 40008" x="212" y="550" width="213" height="245" frameX="-86" frameY="-19" frameWidth="307" frameHeight="273"/>
+	<SubTexture name="元件 40009" x="0" y="808" width="190" height="211" frameX="-115" frameY="-62" frameWidth="307" frameHeight="273"/>
+	<SubTexture name="元件 40010" x="190" y="808" width="148" height="176" frameX="-159" frameY="-92" frameWidth="307" frameHeight="273"/>
+	<SubTexture name="元件 40011" x="338" y="808" width="153" height="177" frameX="-147" frameY="-82" frameWidth="307" frameHeight="273"/>
+</TextureAtlas>

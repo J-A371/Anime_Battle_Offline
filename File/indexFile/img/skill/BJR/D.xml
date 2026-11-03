@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="D.png" px="-70" py="-138">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture fuck="1" name="元件 50000" x="0" y="0" width="172" height="169"/>
+	<SubTexture fuck="1" name="元件 50001" x="172" y="0" width="172" height="169"/>
+	<SubTexture name="元件 50002" x="344" y="0" width="172" height="169"/>
+	<SubTexture name="元件 50003" x="516" y="0" width="172" height="169"/>
+	<SubTexture name="元件 50004" x="688" y="0" width="172" height="169"/>
+	<SubTexture name="元件 50005" x="0" y="169" width="172" height="169"/>
+	<SubTexture fuck="1" name="元件 50006" x="172" y="169" width="172" height="169"/>
+	<SubTexture fuck="1" name="元件 50007" x="344" y="169" width="172" height="169"/>
+	<SubTexture name="元件 50008" x="516" y="169" width="172" height="169"/>
+	<SubTexture name="元件 50009" x="688" y="169" width="172" height="169"/>
+	<SubTexture name="元件 50010" x="0" y="338" width="172" height="169"/>
+	<SubTexture fuck="1" name="元件 50011" x="172" y="338" width="172" height="169"/>
+	<SubTexture fuck="1" name="元件 50012" x="344" y="338" width="172" height="169"/>
+	<SubTexture name="元件 50013" x="516" y="338" width="172" height="169"/>
+	<SubTexture name="元件 50014" x="688" y="338" width="172" height="169"/>
+	<SubTexture name="元件 50015" x="0" y="507" width="172" height="169"/>
+	<SubTexture name="元件 50016" x="172" y="507" width="172" height="169"/>
+</TextureAtlas>

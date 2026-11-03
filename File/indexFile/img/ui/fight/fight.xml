@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="fight.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 10000" x="0" y="0" width="316" height="71" frameX="0" frameY="-22" frameWidth="316" frameHeight="93"/>
+	<SubTexture name="元件 10001" x="0" y="71" width="309" height="93" frameX="-7" frameY="0" frameWidth="316" frameHeight="93"/>
+</TextureAtlas>

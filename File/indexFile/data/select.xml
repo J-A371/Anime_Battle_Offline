@@ -1,0 +1,58 @@
+<xml>
+	
+   <select name="海贼王">
+	   <role name="路飞" head="LuFei" hp="1800" mp="400" fang="1" li="30" kt="2" speed="4" zl="1" jump="18"/>
+	   <role name="艾斯" head="Ace" hp="1400" mp="600" fang="4" li="28" kt="2" speed="6" zl="1" jump="19"/>
+	   <role name="爱德华·纽盖特" head="LaoDie" hp="1600" mp="400" fang="3" li="29" kt="2" speed="4" zl="4" jump="18"/>
+   </select>
+   
+   <select name="死神">
+	   <role name="朽木白哉" head="DaBai" hp="1500" mp="700" fang="4" li="27" kt="2" speed="4" zl="2" jump="19"/>
+	   <role name="剑八" head="JianBa" hp="1600" mp="400" fang="3" li="29" kt="2" speed="4" zl="3" jump="18"/>
+	   <role name="一护" head="YiHu" hp="1450" mp="400" fang="3" li="25" kt="2" speed="4" zl="3" jump="18"/>
+	   <role name="冬狮郎" head="DongShiLang" hp="1350" mp="600" fang="6" li="24" kt="2" speed="6" zl="3" jump="20"/>
+	   <role name="双刀一护" head="ShuangDaoYiHu" hp="1650" mp="600" fang="6" li="14" kt="2" speed="7" zl="3" jump="20"/>
+   </select>
+   
+   <select name="火影忍者">
+	   <role name="宁次" head="NingCi" hp="1350" mp="600" fang="6" li="27" kt="2" speed="4" zl="1" jump="18"/>
+	   <role name="小迪" head="XiaoDi" hp="1500" mp="500" fang="4" li="27" kt="2" speed="4" zl="1" jump="18"/>
+	   <role name="佐助" head="ZuoZhu" hp="1550" mp="400" fang="3" li="30" kt="2" speed="7" zl="1" jump="19"/>
+   </select>
+   
+   <select name="家庭教师">
+	   <role name="纲吉" head="GangJi" hp="1400" mp="600" fang="5" li="28" kt="2" speed="4" zl="1" jump="19"/>
+	   <role name="巴吉尔" head="Wo" hp="1440" mp="550" fang="3" li="20" kt="2" speed="4" zl="1" jump="18"/>
+   </select>
+   
+   <select name="地下城与勇士">
+	   <role name="女格斗家" head="GeDouJia" hp="1800" mp="350" fang="3" li="35" kt="2" speed="4" zl="1" jump="20"/>
+	   <role name="男鬼剑士" head="GuiJianShi" hp="1500" mp="450" fang="5" li="27" kt="2" speed="4" zl="1" jump="18"/>
+	   <role name="女鬼剑士" head="NvGuiJian" hp="1400" mp="550" fang="4" li="26" kt="2" speed="4" zl="1" jump="19"/>
+	   <role name="火元素" head="HuoYuanSu" hp="1550" mp="550" fang="3" li="27" kt="2" speed="4" zl="2" jump="18"/>
+	   <role name="金龙" head="JinLong" hp="1250" mp="850" fang="2" li="30" kt="2" speed="4" zl="1" jump="18"/>
+	   <role name="男魔法师" head="NanMoFa" hp="1200" mp="800" fang="5" li="25" kt="2" speed="4" zl="1" jump="18"/>
+   </select>
+
+   <select name="魔法禁书目录">
+	   <role name="御坂美琴" head="PaoJie" hp="1600" mp="620" fang="4" li="29" kt="2" speed="4" zl="1" jump="20"/>
+   </select>
+   
+   <select name="妖精的尾巴">
+	   <role name="纳兹" head="NaZi" hp="1600" mp="420" fang="2" li="29" kt="2" speed="4" zl="1" jump="19"/>
+   </select>
+   
+   <select name="浪客剑心">
+	   <role name="剑心" head="JianXin" hp="1300" mp="350" fang="3" li="29" kt="2" speed="4" zl="1" jump="19"/>
+   </select>
+   
+   <select name="其他">
+	   <role name="奇葩龙" head="GuaiYiLong" hp="1600" mp="350" fang="3" li="27" kt="2" speed="4" zl="3" jump="18"/>
+   </select>
+   
+   <select name="怪兽库">
+	   <role name="草泥马" head="CaoNiMa" hp="3000" mp="350" fang="15" li="57" kt="2" speed="4" zl="3" jump="18"/>
+	   <role name="哥布林" head="Freak_GeBuLin" hp="100" mp="50" fang="0" li="10" kt="1" speed="2" zl="1" jump="10"/>
+	   <role name="老哥布林" head="Freak_LaoGeBuLin" hp="300" mp="50" fang="0" li="8" kt="1" speed="2" zl="1" jump="10"/>
+   </select>
+</xml>

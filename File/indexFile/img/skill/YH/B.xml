@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="B.png" px="-106" py="-118">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 70014" x="438" y="456" width="219" height="152"/>
+	<SubTexture name="元件 70013" x="219" y="456" width="219" height="152"/>
+	
+	<SubTexture name="元件 70000" x="0" y="0" width="219" height="152"/>
+	<SubTexture name="元件 70001" x="219" y="0" width="219" height="152"/>
+	<SubTexture name="元件 70002" x="438" y="0" width="219" height="152"/>
+	<SubTexture name="元件 70003" x="657" y="0" width="219" height="152"/>
+	<SubTexture name="元件 70004" x="0" y="152" width="219" height="152"/>
+	<SubTexture name="元件 70005" x="219" y="152" width="219" height="152"/>
+	<SubTexture name="元件 70006" x="438" y="152" width="219" height="152"/>
+	<SubTexture name="元件 70007" x="657" y="152" width="219" height="152"/>
+	<SubTexture name="元件 70008" x="0" y="304" width="219" height="152"/>
+	<SubTexture name="元件 70009" x="219" y="304" width="219" height="152"/>
+	<SubTexture name="元件 70010" x="438" y="304" width="219" height="152"/>
+	<SubTexture name="元件 70011" x="657" y="304" width="219" height="152"/>
+	<SubTexture name="元件 70012" x="0" y="456" width="219" height="152"/>
+	<SubTexture name="元件 70013" x="219" y="456" width="219" height="152"/>
+	<SubTexture name="元件 70014" x="438" y="456" width="219" height="152"/>
+</TextureAtlas>

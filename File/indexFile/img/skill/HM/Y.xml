@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="Y.png" px="-123" py="-123" hred="0" end="3">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 90000" x="0" y="0" width="246" height="231"/>
+	<SubTexture name="元件 90001" x="246" y="0" width="246" height="231"/>
+	<SubTexture name="元件 90002" x="0" y="231" width="246" height="231"/>
+	<SubTexture name="元件 90003" x="246" y="231" width="246" height="231"/>
+</TextureAtlas>

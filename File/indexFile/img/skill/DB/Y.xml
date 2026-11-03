@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="Y.png" px="-139" py="-108">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 50000" x="0" y="0" width="57" height="61" frameX="-109" frameY="-75" frameWidth="287" frameHeight="211"/>
+	<SubTexture name="元件 50001" x="57" y="0" width="112" height="107" frameX="-82" frameY="-52" frameWidth="287" frameHeight="211"/>
+	<SubTexture name="元件 50002" x="169" y="0" width="165" height="157" frameX="-55" frameY="-27" frameWidth="287" frameHeight="211"/>
+	<SubTexture name="元件 50003" x="334" y="0" width="227" height="205" frameX="-24" frameY="-3" frameWidth="287" frameHeight="211"/>
+	<SubTexture name="元件 50004" x="561" y="0" width="273" height="211" frameX="-1" frameY="0" frameWidth="287" frameHeight="211"/>
+	<SubTexture name="元件 50005" x="834" y="0" width="275" height="211" frameX="0" frameY="0" frameWidth="287" frameHeight="211"/>
+	<SubTexture name="元件 50006" x="0" y="211" width="275" height="211" frameX="0" frameY="0" frameWidth="287" frameHeight="211"/>
+	<SubTexture name="元件 50007" x="275" y="211" width="278" height="211" frameX="-5" frameY="0" frameWidth="287" frameHeight="211"/>
+	<SubTexture name="元件 50008" x="553" y="211" width="281" height="211" frameX="-6" frameY="0" frameWidth="287" frameHeight="211"/>
+	<SubTexture name="元件 50009" x="834" y="211" width="281" height="211" frameX="-4" frameY="0" frameWidth="287" frameHeight="211"/>
+	<SubTexture name="元件 50010" x="0" y="422" width="251" height="211" frameX="-12" frameY="0" frameWidth="287" frameHeight="211"/>
+	<SubTexture name="元件 50011" x="251" y="422" width="273" height="211" frameX="-6" frameY="0" frameWidth="287" frameHeight="211"/>
+	<SubTexture name="元件 50012" x="524" y="422" width="267" height="211" frameX="-4" frameY="0" frameWidth="287" frameHeight="211"/>
+	<SubTexture name="元件 50013" x="791" y="422" width="270" height="209" frameX="-9" frameY="-1" frameWidth="287" frameHeight="211"/>
+	<SubTexture name="元件 50014" x="0" y="633" width="264" height="211" frameX="-21" frameY="0" frameWidth="287" frameHeight="211"/>
+	<SubTexture name="元件 50015" x="264" y="633" width="217" height="183" frameX="-29" frameY="-14" frameWidth="287" frameHeight="211"/>
+</TextureAtlas>

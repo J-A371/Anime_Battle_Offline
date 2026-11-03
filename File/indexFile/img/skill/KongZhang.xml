@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="KongZhang.png" px="0" py="-151" fuck="2">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 40000" x="0" y="0" width="200" height="150"/>
+	<SubTexture name="元件 40001" x="200" y="0" width="200" height="150"/>
+	<SubTexture name="元件 40002" x="0" y="150" width="200" height="150"/>
+	<SubTexture name="元件 40003" x="200" y="150" width="200" height="150"/>
+	<SubTexture name="元件 40004" x="0" y="300" width="200" height="150"/>
+	<SubTexture name="元件 40005" x="200" y="300" width="200" height="150"/>
+	<SubTexture name="元件 40006" x="0" y="450" width="200" height="150"/>
+	<SubTexture name="元件 40007" x="200" y="450" width="200" height="150"/>
+	<SubTexture name="元件 40008" x="0" y="600" width="200" height="150"/>
+	<SubTexture name="元件 40009" x="200" y="600" width="200" height="150"/>
+	<SubTexture name="元件 40010" x="0" y="750" width="200" height="150"/>
+	<SubTexture name="元件 40011" x="0" y="750" width="200" height="150"/>
+</TextureAtlas>

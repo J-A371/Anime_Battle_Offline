@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="T.png" px="-70" py="-70">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 140000" x="0" y="0" width="150" height="150"/>
+	<SubTexture name="元件 140001" x="150" y="0" width="150" height="150"/>
+	<SubTexture name="元件 140002" x="300" y="0" width="150" height="150"/>
+	<SubTexture name="元件 140003" x="450" y="0" width="150" height="150"/>
+	<SubTexture name="元件 140004" x="600" y="0" width="150" height="150"/>
+	<SubTexture name="元件 140005" x="750" y="0" width="150" height="150"/>
+	<SubTexture name="元件 140006" x="0" y="150" width="150" height="150"/>
+	<SubTexture name="元件 140007" x="150" y="150" width="150" height="150"/>
+	<SubTexture name="元件 140008" x="300" y="150" width="150" height="150"/>
+	<SubTexture name="元件 140009" x="450" y="150" width="150" height="150"/>
+	<SubTexture name="元件 140010" x="600" y="150" width="150" height="150"/>
+	<SubTexture name="元件 140011" x="750" y="150" width="150" height="150"/>
+	<SubTexture name="元件 140012" x="0" y="300" width="150" height="150"/>
+	<SubTexture name="元件 140013" x="150" y="300" width="150" height="150"/>
+	<SubTexture name="元件 140014" x="300" y="300" width="150" height="150"/>
+	<SubTexture name="元件 140015" x="450" y="300" width="150" height="150"/>
+	<SubTexture name="元件 140016" x="600" y="300" width="150" height="150"/>
+	<SubTexture name="元件 140017" x="750" y="300" width="150" height="150"/>
+	<SubTexture name="元件 140018" x="0" y="450" width="150" height="150"/>
+	<SubTexture name="元件 140019" x="150" y="450" width="150" height="150"/>
+</TextureAtlas>

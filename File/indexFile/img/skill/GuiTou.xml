@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="GuiTou.png" px="-60" py="-184">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 20000" x="0" y="0" width="140" height="201"/>
+	<SubTexture name="元件 20001" x="140" y="0" width="140" height="201"/>
+	<SubTexture name="元件 20002" x="280" y="0" width="140" height="201"/>
+	<SubTexture name="元件 20003" x="420" y="0" width="140" height="201"/>
+	<SubTexture name="元件 20004" x="560" y="0" width="140" height="201"/>
+	<SubTexture name="元件 20005" x="560" y="0" width="140" height="201"/>
+</TextureAtlas>

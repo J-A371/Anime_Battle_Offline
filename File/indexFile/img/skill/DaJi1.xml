@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="DaJi1.png" px="-5" py="-50" sound="ningci_SOXO">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 60000" x="0" y="0" width="80" height="80"/>
+	<SubTexture name="元件 60001" x="80" y="0" width="80" height="80"/>
+	<SubTexture name="元件 60002" x="160" y="0" width="80" height="80"/>
+	<SubTexture name="元件 60003" x="0" y="80" width="80" height="80"/>
+	<SubTexture name="元件 60004" x="80" y="80" width="80" height="80"/>
+	<SubTexture name="元件 60005" x="160" y="80" width="80" height="80"/>
+	<SubTexture name="元件 60006" x="160" y="80" width="80" height="80"/>
+</TextureAtlas>

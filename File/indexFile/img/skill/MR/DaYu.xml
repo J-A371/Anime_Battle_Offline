@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="DaYu.png" px="-24" py="-144">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 150000" x="0" y="0" width="216" height="154"/>
+	<SubTexture name="元件 150001" x="216" y="0" width="216" height="154"/>
+	<SubTexture name="元件 150002" x="432" y="0" width="216" height="154"/>
+	<SubTexture name="元件 150003" x="648" y="0" width="216" height="154"/>
+	<SubTexture name="元件 150004" x="864" y="0" width="216" height="154"/>
+	<SubTexture name="元件 150005" x="0" y="154" width="216" height="154"/>
+	<SubTexture name="元件 150006" x="216" y="154" width="216" height="154"/>
+	<SubTexture name="元件 150007" x="432" y="154" width="216" height="154"/>
+	<SubTexture name="元件 150008" x="648" y="154" width="216" height="154"/>
+	<SubTexture name="元件 150009" x="864" y="154" width="216" height="154"/>
+	<SubTexture name="元件 150010" x="0" y="308" width="216" height="154"/>
+	<SubTexture name="元件 150011" x="216" y="308" width="216" height="154"/>
+	<SubTexture name="元件 150012" x="432" y="308" width="216" height="154"/>
+	<SubTexture name="元件 150013" x="432" y="308" width="216" height="154"/>
+</TextureAtlas>

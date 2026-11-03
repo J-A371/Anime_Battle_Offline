@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="ZiBao.png" px="-52" py="-131" sound="xiaodi_5">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 230000" x="0" y="0" width="106" height="158"/>
+	<SubTexture name="元件 230001" x="106" y="0" width="106" height="158"/>
+	<SubTexture name="元件 230002" x="212" y="0" width="106" height="158"/>
+	<SubTexture name="元件 230003" x="318" y="0" width="106" height="158"/>
+	<SubTexture name="元件 230004" x="424" y="0" width="106" height="158"/>
+	<SubTexture name="元件 230005" x="530" y="0" width="106" height="158"/>
+	<SubTexture name="元件 230006" x="636" y="0" width="106" height="158"/>
+	<SubTexture name="元件 230007" x="742" y="0" width="106" height="158"/>
+	<SubTexture name="元件 230008" x="848" y="0" width="106" height="158"/>
+	<SubTexture name="元件 230009" x="0" y="158" width="106" height="158"/>
+	<SubTexture name="元件 230010" x="106" y="158" width="106" height="158"/>
+	<SubTexture name="元件 230011" x="212" y="158" width="106" height="158"/>
+	<SubTexture name="元件 230012" x="318" y="158" width="106" height="158"/>
+	<SubTexture name="元件 230013" x="424" y="158" width="106" height="158"/>
+	<SubTexture name="元件 230014" x="530" y="158" width="106" height="158"/>
+	<SubTexture name="元件 230015" x="636" y="158" width="106" height="158"/>
+	<SubTexture name="元件 230016" x="742" y="158" width="106" height="158"/>
+	<SubTexture name="元件 230017" x="848" y="158" width="106" height="158"/>
+	<SubTexture name="元件 230018" x="0" y="316" width="106" height="158"/>
+	<SubTexture name="元件 230019" x="106" y="316" width="106" height="158"/>
+	<SubTexture name="元件 230020" x="212" y="316" width="106" height="158"/>
+	<SubTexture name="元件 230021" x="318" y="316" width="106" height="158"/>
+	<SubTexture name="元件 230022" x="424" y="316" width="106" height="158"/>
+	<SubTexture name="元件 230023" x="530" y="316" width="106" height="158"/>
+	<SubTexture name="元件 230024" x="636" y="316" width="106" height="158"/>
+	<SubTexture name="元件 230025" x="742" y="316" width="106" height="158"/>
+	<SubTexture name="元件 230026" x="848" y="316" width="106" height="158"/>
+	<SubTexture name="元件 230027" x="0" y="474" width="106" height="158"/>
+	<SubTexture name="元件 230028" x="106" y="474" width="106" height="158"/>
+	<SubTexture name="元件 230029" x="212" y="474" width="106" height="158"/>
+	<SubTexture name="元件 230030" x="318" y="474" width="106" height="158"/>
+	<SubTexture name="元件 230031" x="424" y="474" width="106" height="158"/>
+	<SubTexture name="元件 230032" x="530" y="474" width="106" height="158"/>
+	<SubTexture name="元件 230033" x="636" y="474" width="106" height="158"/>
+	<SubTexture name="元件 230034" x="742" y="474" width="106" height="158"/>
+	<SubTexture name="元件 230035" x="848" y="474" width="106" height="158"/>
+	<SubTexture name="元件 230036" x="0" y="632" width="106" height="158"/>
+	<SubTexture name="元件 230037" x="106" y="632" width="106" height="158"/>
+	<SubTexture name="元件 230038" x="212" y="632" width="106" height="158"/>
+	<SubTexture name="元件 230039" x="318" y="632" width="106" height="158"/>
+	<SubTexture name="元件 230040" x="424" y="632" width="106" height="158"/>
+	<SubTexture name="元件 230041" x="530" y="632" width="106" height="158"/>
+	<SubTexture name="元件 230042" x="530" y="632" width="106" height="158"/>
+</TextureAtlas>

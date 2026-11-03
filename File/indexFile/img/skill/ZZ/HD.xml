@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="HD.png" px="0" py="-122" hred="6" end="13">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 200000" x="0" y="0" width="63" height="28" frameX="-15" frameY="-66" frameWidth="243" frameHeight="154"/>
+	<SubTexture name="元件 200001" x="63" y="0" width="102" height="60" frameX="-11" frameY="-50" frameWidth="243" frameHeight="154"/>
+	<SubTexture name="元件 200002" x="165" y="0" width="161" height="118" frameX="-9" frameY="-34" frameWidth="243" frameHeight="154"/>
+	<SubTexture name="元件 200003" x="326" y="0" width="190" height="121" frameX="-4" frameY="-19" frameWidth="243" frameHeight="154"/>
+	<SubTexture name="元件 200004" x="516" y="0" width="228" height="151" frameX="-6" frameY="-3" frameWidth="243" frameHeight="154"/>
+	<SubTexture name="元件 200005" x="744" y="0" width="243" height="154"/>
+	<SubTexture name="元件 200006" x="0" y="154" width="212" height="134" frameX="-11" frameY="-13" frameWidth="243" frameHeight="154"/>
+	<SubTexture name="元件 200007" x="212" y="154" width="217" height="140" frameX="-6" frameY="-10" frameWidth="243" frameHeight="154"/>
+	<SubTexture name="元件 200008" x="429" y="154" width="213" height="136" frameX="-9" frameY="-11" frameWidth="243" frameHeight="154"/>
+	<SubTexture name="元件 200009" x="642" y="154" width="206" height="129" frameX="-9" frameY="-14" frameWidth="243" frameHeight="154"/>
+	<SubTexture name="元件 200010" x="0" y="294" width="204" height="135" frameX="-10" frameY="-11" frameWidth="243" frameHeight="154"/>
+	<SubTexture name="元件 200011" x="204" y="294" width="212" height="132" frameX="-2" frameY="-13" frameWidth="243" frameHeight="154"/>
+	<SubTexture name="元件 200012" x="416" y="294" width="211" height="136" frameX="-5" frameY="-8" frameWidth="243" frameHeight="154"/>
+	<SubTexture name="元件 200013" x="627" y="294" width="210" height="134" frameX="-4" frameY="-12" frameWidth="243" frameHeight="154"/>
+	<SubTexture name="元件 200014" x="0" y="430" width="212" height="134" frameX="-7" frameY="-12" frameWidth="243" frameHeight="154"/>
+	<SubTexture name="元件 200015" x="212" y="430" width="217" height="140" frameX="-5" frameY="-9" frameWidth="243" frameHeight="154"/>
+	<SubTexture name="元件 200016" x="429" y="430" width="207" height="136" frameX="-7" frameY="-6" frameWidth="243" frameHeight="154"/>
+	<SubTexture name="元件 200017" x="636" y="430" width="146" height="133" frameX="-62" frameY="-1" frameWidth="243" frameHeight="154"/>
+	<SubTexture name="元件 200018" x="782" y="430" width="133" height="123" frameX="-62" frameY="-5" frameWidth="243" frameHeight="154"/>
+	<SubTexture name="元件 200019" x="915" y="430" width="104" height="110" frameX="-83" frameY="-18" frameWidth="243" frameHeight="154"/>
+</TextureAtlas>

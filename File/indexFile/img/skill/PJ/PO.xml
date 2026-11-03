@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="PO.png" px="-32" py="-92">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 30000" x="0" y="0" width="279" height="131"/>
+	<SubTexture name="元件 30001" x="279" y="0" width="279" height="131"/>
+	<SubTexture name="元件 30002" x="558" y="0" width="279" height="131"/>
+	<SubTexture name="元件 30003" x="0" y="131" width="279" height="131"/>
+	<SubTexture name="元件 30004" x="279" y="131" width="279" height="131"/>
+	<SubTexture name="元件 30005" x="558" y="131" width="279" height="131"/>
+	<SubTexture name="元件 30006" x="0" y="262" width="279" height="131"/>
+	<SubTexture name="元件 30007" x="279" y="262" width="279" height="131"/>
+	<SubTexture name="元件 30008" x="558" y="262" width="279" height="131"/>
+	<SubTexture name="元件 30009" x="0" y="393" width="279" height="131"/>
+	<SubTexture name="元件 30010" x="279" y="393" width="279" height="131"/>
+	<SubTexture name="元件 30011" x="558" y="393" width="279" height="131"/>
+	<SubTexture name="元件 30012" x="0" y="524" width="279" height="131"/>
+	<SubTexture name="元件 30013" x="279" y="524" width="279" height="131"/>
+	<SubTexture name="元件 30014" x="558" y="524" width="279" height="131"/>
+	<SubTexture name="元件 30015" x="0" y="655" width="279" height="131"/>
+	<SubTexture name="元件 30016" x="279" y="655" width="279" height="131"/>
+	<SubTexture name="元件 30017" x="558" y="655" width="279" height="131"/>
+	<SubTexture name="元件 30018" x="0" y="786" width="279" height="131"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="MR5.png" px="-48" py="-148" hred="0" end="5">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 10000" x="0" y="0" width="180" height="200"/>
+	<SubTexture name="元件 10001" x="180" y="0" width="180" height="200"/>
+	<SubTexture name="元件 10002" x="360" y="0" width="180" height="200"/>
+	<SubTexture name="元件 10003" x="540" y="0" width="180" height="200"/>
+	<SubTexture name="元件 10004" x="720" y="0" width="180" height="200"/>
+	<SubTexture name="元件 10005" x="0" y="200" width="180" height="200"/>
+	<SubTexture name="元件 10006" x="180" y="200" width="180" height="200"/>
+	<SubTexture name="元件 10007" x="360" y="200" width="180" height="200"/>
+	<SubTexture name="元件 10008" x="540" y="200" width="180" height="200"/>
+	<SubTexture name="元件 10009" x="720" y="200" width="180" height="200"/>
+	<SubTexture name="元件 10010" x="0" y="400" width="180" height="200"/>
+	<SubTexture name="元件 10011" x="0" y="400" width="180" height="200"/>
+</TextureAtlas>

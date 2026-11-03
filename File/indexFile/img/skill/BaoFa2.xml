@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="BaoFa2.png" px="-97" py="-65">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 130000" x="0" y="0" width="192" height="80"/>
+	<SubTexture name="元件 130001" x="192" y="0" width="192" height="80"/>
+	<SubTexture name="元件 130002" x="0" y="80" width="192" height="80"/>
+	<SubTexture name="元件 130003" x="192" y="80" width="192" height="80"/>
+	<SubTexture name="元件 130004" x="0" y="160" width="192" height="80"/>
+	<SubTexture name="元件 130005" x="192" y="160" width="192" height="80"/>
+	<SubTexture name="元件 130006" x="0" y="240" width="192" height="80"/>
+	<SubTexture name="元件 130007" x="192" y="240" width="192" height="80"/>
+	<SubTexture name="元件 130008" x="0" y="320" width="192" height="80"/>
+	<SubTexture name="元件 130009" x="0" y="320" width="192" height="80"/>
+</TextureAtlas>

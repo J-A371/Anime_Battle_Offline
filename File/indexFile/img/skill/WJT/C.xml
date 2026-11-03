@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="C.png" px="-150" py="-136">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 2 实例 10000" x="4" y="4" width="321" height="221"/>
+	<SubTexture name="元件 2 实例 10001" x="329" y="4" width="321" height="221"/>
+	<SubTexture name="元件 2 实例 10002" x="654" y="4" width="321" height="221"/>
+	<SubTexture name="元件 2 实例 10003" x="4" y="229" width="321" height="221"/>
+	<SubTexture name="元件 2 实例 10004" x="329" y="229" width="321" height="221"/>
+	<SubTexture name="元件 2 实例 10005" x="654" y="229" width="321" height="221"/>
+	<SubTexture name="元件 2 实例 10006" x="4" y="454" width="321" height="221"/>
+	<SubTexture name="元件 2 实例 10007" x="329" y="454" width="321" height="221"/>
+	<SubTexture name="元件 2 实例 10008" x="654" y="454" width="321" height="221"/>
+	<SubTexture name="元件 2 实例 10009" x="4" y="679" width="321" height="221"/>
+	<SubTexture name="元件 2 实例 10010" x="329" y="679" width="321" height="221"/>
+	<SubTexture name="元件 2 实例 10011" x="654" y="679" width="321" height="221"/>
+	<SubTexture name="元件 2 实例 10012" x="4" y="904" width="321" height="221"/>
+	<SubTexture name="元件 2 实例 10013" x="329" y="904" width="321" height="221"/>
+	<SubTexture name="元件 2 实例 10014" x="654" y="904" width="321" height="221"/>
+</TextureAtlas>

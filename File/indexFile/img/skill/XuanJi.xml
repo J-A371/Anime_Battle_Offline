@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="XuanJi.png" px="-63" py="-165">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 40000" x="0" y="0" width="109" height="271"/>
+	<SubTexture name="元件 40001" x="109" y="0" width="109" height="271"/>
+	<SubTexture name="元件 40002" x="218" y="0" width="109" height="271"/>
+	<SubTexture name="元件 40003" x="327" y="0" width="109" height="271"/>
+	<SubTexture name="元件 40004" x="0" y="271" width="109" height="271"/>
+	<SubTexture name="元件 40005" x="109" y="271" width="109" height="271"/>
+	<SubTexture name="元件 40006" x="218" y="271" width="109" height="271"/>
+	<SubTexture name="元件 40007" x="218" y="271" width="109" height="271"/>
+</TextureAtlas>

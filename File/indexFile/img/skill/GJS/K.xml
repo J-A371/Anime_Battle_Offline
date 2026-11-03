@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="K.png" px="-63" py="-107">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture fuck="1" name="元件 60000" x="0" y="0" width="298" height="160"/>
+	<SubTexture name="元件 60001" x="298" y="0" width="298" height="160"/>
+	<SubTexture name="元件 60002" x="596" y="0" width="298" height="160"/>
+	<SubTexture fuck="1" name="元件 60003" x="0" y="160" width="298" height="160"/>
+	<SubTexture name="元件 60004" x="298" y="160" width="298" height="160"/>
+	<SubTexture name="元件 60005" x="596" y="160" width="298" height="160"/>
+	<SubTexture name="元件 60006" x="0" y="320" width="298" height="160"/>
+</TextureAtlas>

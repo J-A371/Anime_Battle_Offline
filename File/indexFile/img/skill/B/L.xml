@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="L.png" px="-15" py="-100">
+	<!-- Created with Adobe Flash Professional version 13.0.0.759 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 20000" x="0" y="0" width="250" height="111" pivotX="0.55" pivotY="1"/>
+</TextureAtlas>

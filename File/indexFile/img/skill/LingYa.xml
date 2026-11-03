@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="LingYa.png" px="-147" py="-239">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 10000" x="0" y="0" width="255" height="259"/>
+	<SubTexture name="元件 10001" x="255" y="0" width="255" height="259"/>
+	<SubTexture name="元件 10002" x="510" y="0" width="255" height="259"/>
+	<SubTexture name="元件 10003" x="765" y="0" width="255" height="259"/>
+	<SubTexture name="元件 10004" x="0" y="259" width="255" height="259"/>
+	<SubTexture name="元件 10005" x="255" y="259" width="255" height="259"/>
+	<SubTexture name="元件 10006" x="510" y="259" width="255" height="259"/>
+	<SubTexture name="元件 10007" x="765" y="259" width="255" height="259"/>
+	<SubTexture name="元件 10008" x="0" y="518" width="255" height="259"/>
+	<SubTexture name="元件 10009" x="255" y="518" width="255" height="259"/>
+	<SubTexture name="元件 10010" x="510" y="518" width="255" height="259"/>
+	<SubTexture name="元件 10011" x="765" y="518" width="255" height="259"/>
+	<SubTexture name="元件 10012" x="0" y="777" width="255" height="259"/>
+	<SubTexture name="元件 10013" x="255" y="777" width="255" height="259"/>
+	<SubTexture name="元件 10014" x="510" y="777" width="255" height="259"/>
+	<SubTexture name="元件 10015" x="765" y="777" width="255" height="259"/>
+	<SubTexture name="元件 10016" x="0" y="1036" width="255" height="259"/>
+	<SubTexture name="元件 10017" x="255" y="1036" width="255" height="259"/>
+	<SubTexture name="元件 10018" x="510" y="1036" width="255" height="259"/>
+	<SubTexture name="元件 10019" x="765" y="1036" width="255" height="259"/>
+	<SubTexture name="元件 10020" x="0" y="1295" width="255" height="259"/>
+	<SubTexture name="元件 10021" x="0" y="1295" width="255" height="259"/>
+</TextureAtlas>

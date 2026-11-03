@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="B.png" px="-93" py="-98">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 210000" x="0" y="0" width="184" height="181"/>
+	<SubTexture name="元件 210001" x="184" y="0" width="184" height="181"/>
+	<SubTexture name="元件 210002" x="368" y="0" width="184" height="181"/>
+	<SubTexture name="元件 210003" x="552" y="0" width="184" height="181"/>
+	<SubTexture name="元件 210004" x="736" y="0" width="184" height="181"/>
+	<SubTexture name="元件 210005" x="0" y="181" width="184" height="181"/>
+	<SubTexture name="元件 210006" x="184" y="181" width="184" height="181"/>
+	<SubTexture name="元件 210007" x="368" y="181" width="184" height="181"/>
+	<SubTexture name="元件 210008" x="552" y="181" width="184" height="181"/>
+	<SubTexture name="元件 210009" x="736" y="181" width="184" height="181"/>
+</TextureAtlas>

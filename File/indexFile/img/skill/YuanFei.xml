@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="YuanFei.png" px="-97" py="-101">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 170000" x="0" y="0" width="205" height="205"/>
+	<SubTexture name="元件 170001" x="205" y="0" width="205" height="205"/>
+	<SubTexture name="元件 170002" x="0" y="205" width="205" height="205"/>
+	<SubTexture name="元件 170003" x="205" y="205" width="205" height="205"/>
+	<SubTexture name="元件 170004" x="0" y="410" width="205" height="205"/>
+	<SubTexture name="元件 170005" x="205" y="410" width="205" height="205"/>
+	<SubTexture name="元件 170006" x="0" y="615" width="205" height="205"/>
+	<SubTexture name="元件 170007" x="205" y="615" width="205" height="205"/>
+	<SubTexture name="元件 170008" x="205" y="615" width="205" height="205"/>
+</TextureAtlas>

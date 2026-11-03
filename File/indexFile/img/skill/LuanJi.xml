@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="LuanJi.png" px="-52" py="-144">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="死气冲击0000" x="0" y="0" width="140" height="207"/>
+	<SubTexture name="死气冲击0001" x="140" y="0" width="140" height="207"/>
+	<SubTexture name="死气冲击0002" x="280" y="0" width="140" height="207"/>
+	<SubTexture name="死气冲击0003" x="0" y="207" width="140" height="207"/>
+	<SubTexture name="死气冲击0004" x="140" y="207" width="140" height="207"/>
+	<SubTexture name="死气冲击0005" x="140" y="207" width="140" height="207"/>
+</TextureAtlas>

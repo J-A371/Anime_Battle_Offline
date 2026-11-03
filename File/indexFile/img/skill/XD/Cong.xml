@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="Cong.png" px="-8" py="-13" hred="0" end="3">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 50000" x="0" y="0" width="20" height="13" frameX="0" frameY="-2" frameWidth="20" frameHeight="19"/>
+	<SubTexture name="元件 50001" x="0" y="13" width="20" height="13" frameX="0" frameY="-2" frameWidth="20" frameHeight="19"/>
+	<SubTexture name="元件 50002" x="0" y="26" width="20" height="13" frameX="0" frameY="-2" frameWidth="20" frameHeight="19"/>
+	<SubTexture name="元件 50003" x="0" y="26" width="20" height="13" frameX="0" frameY="-2" frameWidth="20" frameHeight="19"/>
+	<SubTexture name="元件 50004" x="0" y="39" width="13" height="19" frameX="-3" frameY="0" frameWidth="20" frameHeight="19"/>
+	<SubTexture name="元件 50004" x="0" y="39" width="13" height="19" frameX="-3" frameY="0" frameWidth="20" frameHeight="19"/>
+</TextureAtlas>

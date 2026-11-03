@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="ShuangYiNiao.png" hred="0" end="1">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 30000" x="0" y="0" width="32" height="27"/>
+	<SubTexture name="元件 30001" x="0" y="27" width="32" height="27"/>
+	<SubTexture name="元件 30002" x="0" y="27" width="32" height="27"/>
+</TextureAtlas>

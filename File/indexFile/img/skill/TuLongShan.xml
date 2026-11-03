@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="TuLongShan.png" px="-86" py="-166">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 30000" x="0" y="0" width="198" height="185"/>
+	<SubTexture name="元件 30001" x="198" y="0" width="198" height="185"/>
+	<SubTexture name="元件 30002" x="0" y="185" width="198" height="185"/>
+	<SubTexture name="元件 30003" x="198" y="185" width="198" height="185"/>
+	<SubTexture name="元件 30004" x="0" y="370" width="198" height="185"/>
+	<SubTexture name="元件 30005" x="198" y="370" width="198" height="185"/>
+	<SubTexture name="元件 30006" x="0" y="555" width="198" height="185"/>
+	<SubTexture name="元件 30007" x="198" y="555" width="198" height="185"/>
+	<SubTexture name="元件 30008" x="198" y="555" width="198" height="185"/>
+</TextureAtlas>

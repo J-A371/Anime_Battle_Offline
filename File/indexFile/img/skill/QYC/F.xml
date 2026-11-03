@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="F.png" px="-130" py="-210" hred="0" end="5">
+	<!-- Created with Adobe Flash Professional version 13.0.0.759 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="龙卷风0000" x="4" y="4" width="272" height="240" pivotX="0" pivotY="0"/>
+	<SubTexture name="龙卷风0001" x="280" y="4" width="272" height="240"/>
+	<SubTexture name="龙卷风0002" x="556" y="4" width="272" height="240"/>
+	<SubTexture name="龙卷风0003" x="4" y="248" width="272" height="240"/>
+	<SubTexture name="龙卷风0004" x="280" y="248" width="272" height="240"/>
+	<SubTexture name="龙卷风0005" x="556" y="248" width="272" height="240"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="PiFeng.png" px="-196" py="-180">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 10000" x="0" y="0" width="432" height="232"/>
+	<SubTexture name="元件 10001" x="432" y="0" width="432" height="232"/>
+	<SubTexture name="元件 10002" x="0" y="232" width="432" height="232"/>
+	<SubTexture name="元件 10003" x="432" y="232" width="432" height="232"/>
+	<SubTexture name="元件 10004" x="0" y="464" width="432" height="232"/>
+	<SubTexture name="元件 10005" x="432" y="464" width="432" height="232"/>
+	<SubTexture name="元件 10006" x="0" y="696" width="432" height="232"/>
+	<SubTexture name="元件 10007" x="432" y="696" width="432" height="232"/>
+	<SubTexture name="元件 10008" x="0" y="928" width="432" height="232"/>
+	<SubTexture name="元件 10009" x="432" y="928" width="432" height="232"/>
+	<SubTexture name="元件 10010" x="0" y="1160" width="432" height="232"/>
+	<SubTexture name="元件 10011" x="0" y="1160" width="432" height="232"/>
+</TextureAtlas>

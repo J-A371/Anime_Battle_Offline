@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="ShangZhan.png" px="-25" py="-100">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 120000" x="0" y="0" width="99" height="153"/>
+	<SubTexture name="元件 120001" x="99" y="0" width="99" height="153"/>
+	<SubTexture name="元件 120000" x="0" y="0" width="99" height="153"/>
+	<SubTexture name="元件 120001" x="99" y="0" width="99" height="153"/>
+	<SubTexture name="元件 120000" x="0" y="0" width="99" height="153"/>
+</TextureAtlas>

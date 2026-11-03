@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="MR3.png" px="0" py="-137">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 10000" x="0" y="0" width="290" height="160"/>
+	<SubTexture name="元件 10001" x="290" y="0" width="290" height="160"/>
+	<SubTexture name="元件 10002" x="580" y="0" width="290" height="160"/>
+	<SubTexture name="元件 10003" x="0" y="160" width="290" height="160"/>
+	<SubTexture name="元件 10004" x="290" y="160" width="290" height="160"/>
+	<SubTexture name="元件 10005" x="580" y="160" width="290" height="160"/>
+	<SubTexture name="元件 10006" x="0" y="320" width="290" height="160"/>
+	<SubTexture name="元件 10007" x="0" y="320" width="290" height="160"/>
+</TextureAtlas>

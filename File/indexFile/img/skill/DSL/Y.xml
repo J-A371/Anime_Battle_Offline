@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="Y.png" px="-60" py="-48">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 110000" x="0" y="0" width="124" height="102"/>
+	<SubTexture name="元件 110001" x="124" y="0" width="124" height="102"/>
+	<SubTexture name="元件 110002" x="248" y="0" width="124" height="102"/>
+	<SubTexture name="元件 110003" x="372" y="0" width="124" height="102"/>
+	<SubTexture name="元件 110004" x="0" y="102" width="124" height="102"/>
+	<SubTexture name="元件 110005" x="124" y="102" width="124" height="102"/>
+	<SubTexture name="元件 110006" x="248" y="102" width="124" height="102"/>
+	<SubTexture name="元件 110007" x="372" y="102" width="124" height="102"/>
+	<SubTexture name="元件 110008" x="0" y="204" width="124" height="102"/>
+	<SubTexture name="元件 110009" x="124" y="204" width="124" height="102"/>
+	<SubTexture name="元件 110010" x="248" y="204" width="124" height="102"/>
+	<SubTexture name="元件 110011" x="372" y="204" width="124" height="102"/>
+	<SubTexture name="元件 110012" x="0" y="306" width="124" height="102"/>
+	<SubTexture name="元件 110013" x="124" y="306" width="124" height="102"/>
+	<SubTexture name="元件 110014" x="248" y="306" width="124" height="102"/>
+	<SubTexture name="元件 110015" x="372" y="306" width="124" height="102"/>
+	<SubTexture name="元件 110016" x="0" y="408" width="124" height="102"/>
+	<SubTexture name="元件 110017" x="124" y="408" width="124" height="102"/>
+	<SubTexture name="元件 110018" x="248" y="408" width="124" height="102"/>
+	<SubTexture name="元件 110019" x="372" y="408" width="124" height="102"/>
+	<SubTexture name="元件 110020" x="0" y="510" width="124" height="102"/>
+	<SubTexture name="元件 110021" x="124" y="510" width="124" height="102"/>
+	<SubTexture name="元件 110022" x="248" y="510" width="124" height="102"/>
+	<SubTexture name="元件 110023" x="372" y="510" width="124" height="102"/>
+	<SubTexture name="元件 110024" x="0" y="612" width="124" height="102"/>
+	<SubTexture name="元件 110025" x="124" y="612" width="124" height="102"/>
+	<SubTexture name="元件 110026" x="248" y="612" width="124" height="102"/>
+</TextureAtlas>

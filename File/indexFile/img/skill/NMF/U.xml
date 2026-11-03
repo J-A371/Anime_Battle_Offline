@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="U.png" px="-56" py="-100">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 20000" x="0" y="0" width="229" height="140"/>
+	<SubTexture name="元件 20001" x="229" y="0" width="229" height="140"/>
+	<SubTexture name="元件 20002" x="458" y="0" width="229" height="140"/>
+	<SubTexture name="元件 20003" x="687" y="0" width="229" height="140"/>
+	<SubTexture name="元件 20004" x="0" y="140" width="229" height="140"/>
+	<SubTexture name="元件 20005" x="229" y="140" width="229" height="140"/>
+	<SubTexture name="元件 20006" x="458" y="140" width="229" height="140"/>
+	<SubTexture name="元件 20007" x="687" y="140" width="229" height="140"/>
+	<SubTexture name="元件 20008" x="0" y="280" width="229" height="140"/>
+	<SubTexture name="元件 20009" x="229" y="280" width="229" height="140"/>
+	<SubTexture name="元件 20010" x="458" y="280" width="229" height="140"/>
+	<SubTexture name="元件 20011" x="687" y="280" width="229" height="140"/>
+	<SubTexture name="元件 20012" x="0" y="420" width="229" height="140"/>
+	<SubTexture name="元件 20013" x="229" y="420" width="229" height="140"/>
+	<SubTexture name="元件 20014" x="458" y="420" width="229" height="140"/>
+	<SubTexture name="元件 20015" x="687" y="420" width="229" height="140"/>
+	<SubTexture name="元件 20016" x="0" y="560" width="229" height="140"/>
+	<SubTexture name="元件 20017" x="229" y="560" width="229" height="140"/>
+	<SubTexture name="元件 20018" x="458" y="560" width="229" height="140"/>
+	<SubTexture name="元件 20019" x="687" y="560" width="229" height="140"/>
+	<SubTexture name="元件 20020" x="0" y="700" width="229" height="140"/>
+	<SubTexture name="元件 20021" x="229" y="700" width="229" height="140"/>
+	<SubTexture name="元件 20022" x="458" y="700" width="229" height="140"/>
+	<SubTexture name="元件 20023" x="687" y="700" width="229" height="140"/>
+	<SubTexture name="元件 20024" x="0" y="840" width="229" height="140"/>
+	<SubTexture name="元件 20025" x="229" y="840" width="229" height="140"/>
+</TextureAtlas>

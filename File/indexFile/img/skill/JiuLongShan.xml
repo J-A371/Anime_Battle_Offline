@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="JiuLongShan.png" px="-553" py="-126">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 50000" x="0" y="0" width="840" height="159" frameX="-12" frameY="0" frameWidth="852" frameHeight="159"/>
+	<SubTexture name="元件 50001" x="840" y="0" width="840" height="159" frameX="-9" frameY="0" frameWidth="852" frameHeight="159"/>
+	<SubTexture name="元件 50002" x="0" y="159" width="840" height="159" frameX="-12" frameY="0" frameWidth="852" frameHeight="159"/>
+	<SubTexture name="元件 50003" x="840" y="159" width="840" height="159" frameX="-12" frameY="0" frameWidth="852" frameHeight="159"/>
+	<SubTexture name="元件 50004" x="0" y="318" width="840" height="159" frameX="-12" frameY="0" frameWidth="852" frameHeight="159"/>
+	<SubTexture name="元件 50005" x="840" y="318" width="840" height="159" frameX="-12" frameY="0" frameWidth="852" frameHeight="159"/>
+	<SubTexture name="元件 50006" x="0" y="477" width="840" height="159" frameX="-12" frameY="0" frameWidth="852" frameHeight="159"/>
+	<SubTexture name="元件 50007" x="840" y="477" width="840" height="159" frameX="-2" frameY="0" frameWidth="852" frameHeight="159"/>
+	<SubTexture name="元件 50008" x="0" y="636" width="840" height="159" frameX="-4" frameY="0" frameWidth="852" frameHeight="159"/>
+	<SubTexture name="元件 50009" x="840" y="636" width="840" height="159" frameX="-4" frameY="0" frameWidth="852" frameHeight="159"/>
+	<SubTexture name="元件 50010" x="0" y="795" width="840" height="159" frameX="-2" frameY="0" frameWidth="852" frameHeight="159"/>
+	<SubTexture name="元件 50011" x="840" y="795" width="840" height="159" frameX="-2" frameY="0" frameWidth="852" frameHeight="159"/>
+	<SubTexture name="元件 50012" x="0" y="954" width="840" height="159" frameX="-2" frameY="0" frameWidth="852" frameHeight="159"/>
+	<SubTexture name="元件 50013" x="840" y="954" width="840" height="159" frameX="0" frameY="0" frameWidth="852" frameHeight="159"/>
+</TextureAtlas>

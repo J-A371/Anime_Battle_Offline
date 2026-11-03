@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="LongShanQiang.png" px="-111" py="-133" hred="0" end="6">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 40000" x="0" y="0" width="254" height="184"/>
+	<SubTexture name="元件 40001" x="254" y="0" width="254" height="184"/>
+	<SubTexture name="元件 40002" x="0" y="184" width="254" height="184"/>
+	<SubTexture name="元件 40003" x="254" y="184" width="254" height="184"/>
+	<SubTexture name="元件 40004" x="0" y="368" width="254" height="184"/>
+	<SubTexture name="元件 40005" x="254" y="368" width="254" height="184"/>
+	<SubTexture name="元件 40006" x="0" y="552" width="254" height="184"/>
+</TextureAtlas>

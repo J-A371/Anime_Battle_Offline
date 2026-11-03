@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="LingDian.png" px="-200" py="-50">
+	<!-- Created with Adobe Flash CS6 version 12.0.2.529 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 30000" x="0" y="0" width="400" height="100"/>
+	<SubTexture name="元件 30001" x="0" y="100" width="400" height="100"/>
+	<SubTexture name="元件 30002" x="0" y="200" width="400" height="100"/>
+	<SubTexture name="元件 30003" x="0" y="300" width="400" height="100"/>
+	<SubTexture name="元件 30004" x="0" y="400" width="400" height="100"/>
+	<SubTexture name="元件 30005" x="0" y="500" width="400" height="100"/>
+	<SubTexture name="元件 30006" x="0" y="500" width="400" height="100"/>
+</TextureAtlas>
